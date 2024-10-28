@@ -1,2 +1,2 @@
-# coursera-test
-Coursera test
+# EDA
+Exploratory Data Analysis
